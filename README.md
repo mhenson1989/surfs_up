@@ -6,7 +6,7 @@ The purpose of the Surds Up Analysis is to assess review the weather data and st
 **1. On average, the temperature in Oahu in June is only slightly higher than the temperature in Oahu in December**
 As seen in the chart below, the average temperature in Oahu in June is 75 degrees (rounded up). This is only 4 degrees higher than the average temperature in Oahu in December, which is nominal in terms of an overall fluctuation in weather. Though we did not run the analysis for the months in between June and December, one could assume that they will, on average, range between 75 and 71 degrees, which could still be acceptable ice cream consuming weather.  
 
-!["June Avg Temp"](https://github.com/mhenson1989/surfs_up/blob/main/Resources/June_AvgTemp.PNG)
+!["June Avg Temp"]()
 
 **2. There is a significant drop in temperature from the beginning of December to the end of December** 
 Looking at a snapshot of the December temperature dataframe, you can see that the temperature on December 1st is 76 degrees, which is on par for the average temperatures in June, however, over the course of 30 days, we see a significant temperature drop by 11 degrees on December 31st, which indicates that as the month passes, Oahu begins to get significantly colder. I would also offer the assumption that this trend might continue in January and February and would recommend running an analysis on these months to assess if it is necessary to close for a Winter Break. 
